@@ -108,7 +108,7 @@ Schemes : HTTP</p>
 <h4 id="assistance">ASSISTANCE</h4>
 <p>To get technical assistance with the Rest API, <a href="mailto:%3Cinfo@genohm.com%3E;">contact the developer.</a></p>
 <h1 id="a-idtoc2definitionsa"><a id="toc2"></a><a href="#toc">DEFINITIONS</a></h1>
-<h3 id="displayableentitycolumn«object»">DisplayableEntityColumn«object»</h3>
+<h3 id="a-iddecdisplayableentitycolumn«object»a"><a id="dec">DisplayableEntityColumn«object»</a></h3><a id="dec">
 
 <table>
 <thead>
@@ -163,11 +163,11 @@ Schemes : HTTP</p>
 </tr>
 <tr>
 <td align="left">columns (<em>optional</em>)</td>
-<td align="left"><a href="###DisplayableEntityColumn%C2%ABobject%C2%BB">&lt; DisplayableEntityColumn«object» &gt;</a> array</td>
+<td align="left"><a href="#dec%C2%BB">&lt; DisplayableEntityColumn«object» &gt;</a> array</td>
 </tr>
 <tr>
 <td align="left">links (<em>optional</em>)</td>
-<td align="left"><a href="###Link">&lt; Link &gt;</a> array</td>
+<td align="left">&lt; Link &gt; array</td>
 </tr>
 <tr>
 <td align="left">pk (<em>optional</em>)</td>
@@ -261,7 +261,7 @@ Schemes : HTTP</p>
 <td align="left"><a href="###DisplayableEntityResource">&lt; DisplayableEntityResource &gt;</a> array</td>
 </tr>
 </tbody>
-</table><h1 id="a-idtoc3basic-table-operationsa"><a id="toc3"></a><a href="#toc">BASIC TABLE OPERATIONS</a></h1>
+</table></a><h1 id="a-idtoc3basic-table-operationsa"><a id="dec"></a><a id="toc3"></a><a href="#toc">BASIC TABLE OPERATIONS</a></h1>
 <h2 id="update-multiple-records">Update Multiple Records</h2>
 <blockquote>
 <p><strong>POST</strong></p>
